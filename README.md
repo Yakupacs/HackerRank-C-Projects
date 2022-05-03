@@ -1,6 +1,6 @@
 # HackerRank-C-Projects
 
-*My C Projects on the HackerRank.*
+*My solved C Projects on the HackerRank.*
 
 --------------------------
 

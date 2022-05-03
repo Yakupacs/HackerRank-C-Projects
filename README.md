@@ -1,7 +1,8 @@
 # HackerRank-C-Projects
 
 *My solved C Projects on the HackerRank.*
-[Hacker Rank Profile](https://www.hackerrank.com/ykpacs)
+
+[HackerRank Profile](https://www.hackerrank.com/ykpacs)
 
 --------------------------
 
